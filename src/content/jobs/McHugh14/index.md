@@ -3,7 +3,7 @@ date: '2018-08-17'
 title: 'Network and Systems Intern'
 company: 'James McHugh CO.'
 location: 'Chicago, IL'
-range: 'May 2016- Aug 2018'
+range: 'May 2016- August 2018'
 url: 'http://www.mchughconstruction.com/'
 ---
 
