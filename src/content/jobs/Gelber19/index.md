@@ -3,7 +3,7 @@ date: '2019-08-19'
 title: 'Software Engineer Intern'
 company: 'Gelber Group'
 location: 'Chicago, IL'
-range: 'August 2019 - December 2019'
+range: 'August 2019 - Present'
 url: 'https://www.gelbergroup.com/'
 ---
 
